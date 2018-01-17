@@ -1,6 +1,3 @@
 # robotstxt.org/
 
-User-agent: *
-
-
-jake deving...
+User-agent: *jake deving
